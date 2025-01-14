@@ -1,16 +1,22 @@
-## Hi there 👋
+# Who am I?
+Hi, I'm Solomon! I highly value privacy, security and user-focused design. This has led me to create my home-lab and self-host various services. Because of this, I have gained familiarity with tools which are used in production environments as well.
 
-<!--
-**SolninjaA/SolninjaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some other facts about me:
+- 🥋 I am a 1st-dan black belt in Taekwon-do.
+- 🎌 I am currently studying Japanese.
+- 🔭 I’m currently working on https://github.com/SolninjaA/Chhoto-URL-Extension
+- 🌱 I’m currently learning Rust
 
-Here are some ideas to get you started:
+# Technologies
+Confident in:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning:
+- Rust
+
+Familiar:
+- C
